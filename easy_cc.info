@@ -1,0 +1,5 @@
+name = Custom Cache Clearing
+description =  Module made for adding a button/link to clear cache on any page of the browser.
+package = Ben Custom Modules
+core = 7.x
+files[] = easy_cc.module
